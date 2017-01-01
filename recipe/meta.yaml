@@ -27,7 +27,6 @@ test:
   imports:
     - sortedcollections
 
-
 about:
   home: http://www.grantjenks.com/docs/sortedcollections/
   license: Apache-2.0
