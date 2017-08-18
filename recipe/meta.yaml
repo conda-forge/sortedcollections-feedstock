@@ -1,6 +1,6 @@
 {% set name = "sortedcollections" %}
-{% set version = "0.4.2" %}
-{% set sha256 = "8aefd6cf0bb0a89888f192859c3dbf997b906b33cd4ce175d568fb972cfdb489" %}
+{% set version = "0.5.3" %}
+{% set sha256 = "d56d6708e36aec959b08e64c3e5a0e01df518d6e6693d0f5b5c89529288edde6" %}
 
 package:
   name: {{ name|lower }}
@@ -39,8 +39,10 @@ about:
                collections.
   doc_url: http://www.grantjenks.com/docs/sortedcollections/
   dev_url: https://github.com/grantjenks/sortedcollections
+  doc_source_url: https://github.com/grantjenks/sortedcollections/blob/master/docs/index.rst
 
 extra:
   recipe-maintainers:
     - grantjenks
     - mrocklin
+    - nehaljwani
