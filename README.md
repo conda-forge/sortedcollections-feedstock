@@ -14,14 +14,16 @@ Extends the sortedcontainers library with recipes for other collections.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/sortedcollections-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/sortedcollections-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/sortedcollections-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/sortedcollections-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/sortedcollections-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/sortedcollections-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/sortedcollections-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/sortedcollections-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/sortedcollections-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/sortedcollections-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/sortedcollections-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/sortedcollections-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/sortedcollections/badges/version.svg)](https://anaconda.org/conda-forge/sortedcollections)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/sortedcollections/badges/downloads.svg)](https://anaconda.org/conda-forge/sortedcollections)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-sortedcollections-green.svg)](https://anaconda.org/conda-forge/sortedcollections) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/sortedcollections.svg)](https://anaconda.org/conda-forge/sortedcollections) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/sortedcollections.svg)](https://anaconda.org/conda-forge/sortedcollections) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/sortedcollections.svg)](https://anaconda.org/conda-forge/sortedcollections) |
 
 Installing sortedcollections
 ============================
