@@ -14,9 +14,8 @@ Extends the sortedcontainers library with recipes for other collections.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/sortedcollections-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/sortedcollections-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/sortedcollections-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/sortedcollections-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/sortedcollections-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/sortedcollections-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/sortedcollections-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/sortedcollections-feedstock)
 
 Current release info
 ====================
