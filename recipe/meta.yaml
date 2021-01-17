@@ -1,6 +1,6 @@
 {% set name = "sortedcollections" %}
-{% set version = "1.2.1" %}
-{% set sha256 = "58c31f35e3d052ada6a1fbfc235a408e9ec5e2cfc64a02731cf97cac4afd306a" %}
+{% set version = "2.0.1" %}
+{% set sha256 = "75f3b022d641e484cefeefb8eef4340242158984c5c5310313567e3a661f5d49" %}
 
 package:
   name: {{ name|lower }}
