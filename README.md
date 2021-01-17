@@ -5,9 +5,13 @@ Home: http://www.grantjenks.com/docs/sortedcollections/
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sortedcollections-feedstock/blob/master/LICENSE.txt)
 
 Summary: Python Sorted Collections
+
+Development: https://github.com/grantjenks/sortedcollections
+
+Documentation: http://www.grantjenks.com/docs/sortedcollections/
 
 Extends the sortedcontainers library with recipes for other collections.
 
